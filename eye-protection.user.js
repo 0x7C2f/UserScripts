@@ -1,8 +1,5 @@
 // ==UserScript==
-// @name         护眼模式
-// @name:zh-CN   护眼模式
-// @name:zh-TW   護眼模式
-// @name:en      Dark Mode
+// @name      Dark Mode
 // @version      1.4.9
 // @author       X.I.U
 // @updateURL    https://raw.githubusercontent.com/0x7C2f/UserScripts/main/eye-protection.user.js
@@ -22,9 +19,10 @@
 // @noframes
 // @license      GPL-3.0 License
 // @run-at       document-start
-// @namespace    https://github.com/XIU2/UserScript
-// @supportURL   https://github.com/XIU2/UserScript
-// @homepageURL  https://github.com/XIU2/UserScript
+// @namespace    https://github.com/0x7C2f/UserScript
+// @supportURL   https://github.com/0x7C2f/UserScript
+// @homepageURL  https://github.com/0x7C2f/UserScript
+// @exclude      http*://freecash.com/*
 // ==/UserScript==
 
 (function() {
