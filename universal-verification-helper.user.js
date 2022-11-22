@@ -2,8 +2,8 @@
 // @name         万能验证码自动输入（升级版）
 // @namespace    https://www.like996.icu:1205/
 // @version      4.4
-// @updateURL    https://raw.githubusercontent.com/0x7C2f/UserScripts/main/universal-verification-helper.js
-// @downloadURL  https://raw.githubusercontent.com/0x7C2f/UserScripts/main/universal-verification-helper.js
+// @updateURL    https://raw.githubusercontent.com/0x7C2f/UserScripts/main/universal-verification-helper.user.js
+// @downloadURL  https://raw.githubusercontent.com/0x7C2f/UserScripts/main/universal-verification-helper.user.js
 // @description  在将来的时间里将会在后台默默的为你自动识别页面是否存在验证码并填入。对于一些书写不规整的验证码页面请手动配置规则。感谢老六提供框架代码，感谢哈士奇提供思路支持。
 // @author       crab
 // @match        http://*/*

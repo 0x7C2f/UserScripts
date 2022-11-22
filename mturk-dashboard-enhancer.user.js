@@ -6,8 +6,8 @@
 // @author       Kadauchi
 // @icon         http://i.imgur.com/oGRQwPN.png
 // @include      https://worker.mturk.com/dashboard*
-// @updateURL    https://raw.githubusercontent.com/0x7C2f/UserScripts/main/mturk-dashboard-enhancer.js
-// @downloadURL  https://raw.githubusercontent.com/0x7C2f/UserScripts/main/mturk-dashboard-enhancer.js
+// @updateURL    https://raw.githubusercontent.com/0x7C2f/UserScripts/main/mturk-dashboard-enhancer.user.js
+// @downloadURL  https://raw.githubusercontent.com/0x7C2f/UserScripts/main/mturk-dashboard-enhancer.user.js
 // ==/UserScript==
 
 try { if (mturksuite) return; } catch (e) {}

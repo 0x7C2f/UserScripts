@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Twitter Media Downloader
-// @updateURL    https://raw.githubusercontent.com/0x7C2f/UserScripts/main/twitter-media-downloader.js
-// @downloadURL  https://raw.githubusercontent.com/0x7C2f/UserScripts/main/twitter-media-downloader.js
+// @updateURL    https://raw.githubusercontent.com/0x7C2f/UserScripts/main/twitter-media-downloader.user.js
+// @downloadURL  https://raw.githubusercontent.com/0x7C2f/UserScripts/main/twitter-media-downloader.user.js
 // @name:ja     Twitter Media Downloader
 // @name:zh-cn  Twitter 媒体下载
 // @name:zh-tw  Twitter 媒體下載

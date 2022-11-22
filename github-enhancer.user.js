@@ -23,8 +23,8 @@
 // @namespace    https://greasyfork.org/scripts/412245
 // @supportURL   https://github.com/XIU2/UserScript
 // @homepageURL  https://github.com/XIU2/UserScript
-// @updateURL    https://raw.githubusercontent.com/0x7C2f/UserScripts/main/github-enhancer.js
-// @downloadURL  https://raw.githubusercontent.com/0x7C2f/UserScripts/main/github-enhancer.js
+// @updateURL    https://raw.githubusercontent.com/0x7C2f/UserScripts/main/github-enhancer.user.js
+// @downloadURL  https://raw.githubusercontent.com/0x7C2f/UserScripts/main/github-enhancer.user.js
 // ==/UserScript==
 
 (function() {

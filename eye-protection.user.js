@@ -5,8 +5,8 @@
 // @name:en      Dark Mode
 // @version      1.4.9
 // @author       X.I.U
-// @updateURL    https://raw.githubusercontent.com/0x7C2f/UserScripts/main/eye-protection.js
-// @downloadURL  https://raw.githubusercontent.com/0x7C2f/UserScripts/main/eye-protection.js
+// @updateURL    https://raw.githubusercontent.com/0x7C2f/UserScripts/main/eye-protection.user.js
+// @downloadURL  https://raw.githubusercontent.com/0x7C2f/UserScripts/main/eye-protection.user.js
 // @description  简单有效的全网通用护眼模式（夜间模式、暗黑模式、深色模式）
 // @description:zh-CN  简单有效的全网通用护眼模式（夜间模式、暗黑模式、深色模式）
 // @description:zh-TW  簡單有效的全網通用護眼模式（夜間模式、暗黑模式、深色模式）

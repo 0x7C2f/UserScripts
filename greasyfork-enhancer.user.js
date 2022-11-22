@@ -5,8 +5,8 @@
 // @name:ja      大人のGreasyfork
 // @namespace    hoothin
 // @version      1.6.3
-// @updateURL    https://raw.githubusercontent.com/0x7C2f/UserScripts/main/greasyfork-enhancer.js
-// @downloadURL  https://raw.githubusercontent.com/0x7C2f/UserScripts/main/greasyfork-enhancer.js
+// @updateURL    https://raw.githubusercontent.com/0x7C2f/UserScripts/main/greasyfork-enhancer.user.js
+// @downloadURL  https://raw.githubusercontent.com/0x7C2f/UserScripts/main/greasyfork-enhancer.user.js
 // @description  Merge adult results of sleazyfork into greasyfork when the script is no longer anonymously available, add rating score and version for scripts then
 // @description:zh-CN 在Greasyfork的搜索结果中添加Sleazyfork上的成人脚本，增加评分与版本号，并在访问匿名不可用脚本时跳转至Sleazyfork
 // @description:zh-TW 在Greasyfork的搜索結果中添加Sleazyfork上的成人腳本，增加評分與版本號，並在訪問匿名不可用腳本時跳轉至Sleazyfork
