@@ -44,7 +44,7 @@
 // @grant        GM.deleteValue
 // @grant        GM.info
 // @grant        GM.setClipboard
-// @supportURL   https://github.com/hoothin/UserScripts/issues
+// @supportURL   https://github.com/0x7C2f/UserScripts/issues
 // @connect      wedata.net
 // @connect      githubusercontent.com
 // @connect      ghproxy.com
