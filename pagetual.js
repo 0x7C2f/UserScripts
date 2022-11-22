@@ -45,6 +45,8 @@
 // @grant        GM.info
 // @grant        GM.setClipboard
 // @supportURL   https://github.com/0x7C2f/UserScripts/issues
+// @updateURL    https://raw.githubusercontent.com/0x7C2f/UserScripts/main/pagetual.js
+// @downloadURL  https://raw.githubusercontent.com/0x7C2f/UserScripts/main/pagetual.js
 // @connect      wedata.net
 // @connect      githubusercontent.com
 // @connect      ghproxy.com

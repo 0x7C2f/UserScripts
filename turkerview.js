@@ -2,6 +2,8 @@
 // @name         TurkerViewJS
 // @namespace    https://turkerview.com/mturk-scripts/
 // @version      11.0.4
+// @updateURL    https://raw.githubusercontent.com/0x7C2f/UserScripts/main/turkerview.js
+// @downloadURL  https://raw.githubusercontent.com/0x7C2f/UserScripts/main/turkerview.js
 // @description  Imports Turkerview.com functionality into mTurk.
 // @author       ChrisTurk
 // @contrib      Kadauchi - hijacked coloring functions that I then mangled, his were clean.

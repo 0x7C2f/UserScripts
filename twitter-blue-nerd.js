@@ -6,8 +6,8 @@
 // @version     1.6.0
 // @author      @chaoticvibing - GH @busybox11
 // @description 11/9/2022, 11:45:28 PM
-// @updateURL    https://gist.githubusercontent.com/busybox11/53c76f57a577a47a19fab649a76f18e3/raw/twitterblue-nerd.js
-// @downloadURL  https://gist.githubusercontent.com/busybox11/53c76f57a577a47a19fab649a76f18e3/raw/twitterblue-nerd.js
+// @updateURL    https://raw.githubusercontent.com/0x7C2f/UserScripts/main/twitter-blue-nerd.js
+// @downloadURL  https://raw.githubusercontent.com/0x7C2f/UserScripts/main/twitter-blue-nerd.js
 // ==/UserScript==
 
 // YOU'RE FREE TO DO WHATEVER YOU WANT WITH THIS SCRIPT BUT IF YOU DO MAKE SOMETHING
