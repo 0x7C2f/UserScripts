@@ -104,7 +104,7 @@
 // @exclude      *://pan.baidu.com/*
 // @exclude      *://portal.hostgator.com/*
 // @exclude      *://baseline.google.com/*
-// @exclude      *://surveymonkey.com/*
+// @exclude      *://*.surveymonkey.com/*
 // @connect      *
 // ==/UserScript==
 
