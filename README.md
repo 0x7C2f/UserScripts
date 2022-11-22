@@ -15,3 +15,4 @@
 - TurkerViewJS
 - Twitter Media Downloader
 - Universal Verification Helper
+- Greasyfork Search with Sleazyfork Results include
