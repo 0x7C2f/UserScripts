@@ -105,6 +105,7 @@
 // @exclude      *://portal.hostgator.com/*
 // @exclude      *://baseline.google.com/*
 // @exclude      *://*.surveymonkey.com/*
+// @exclude      *://grimdevelopment.com/*
 // @connect      *
 // ==/UserScript==
 
