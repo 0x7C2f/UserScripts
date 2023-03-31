@@ -224,7 +224,7 @@
     function click(query) {bp(query).click();}
     function submit(query) {bp(query).submit();}
     function Captchacheck() {return window.grecaptcha && window.grecaptcha.getResponse().length !== 0;}
-    function redirect(url, blog = true) {location = blog ? 'https://rotator.nurul-huda.sch.id/?url=' + url : url;}
+    function redirect(url, blog = true) {location = blog ? 'http://127.0.0.1:32333/api/bypass=' + url : url;}
     function waitForElm(query, callback) {setTimeout(function() {if (elementExists(query)) {callback(bp(query));} else {waitForElm(query, callback);}}, 1000);}
     function ClickIfExists(query, timeInSec = 1, funcName = 'setTimeout') {if (elementExists(query)) {window[funcName](function() {click(query);}, timeInSec * 1000);}}
     function SubmitIfExists(query, timeInSec = 1, funcName = 'setTimeout') {if (elementExists(query)) {window[funcName](function() {submit(query);}, timeInSec * 1000);}}
