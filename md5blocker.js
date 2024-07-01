@@ -8,8 +8,6 @@
 // @author       (You)
 // @match        *://boards.4channel.org/*
 // @match        *://boards.4chan.org/*
-// @match        *://*.vichan.net/*
-// @match        *://*.tinyboard.org/*
 // @run-at       document-start
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
 // @grant        GM.xmlHttpRequest
