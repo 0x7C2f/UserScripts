@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         md5blocker
 // @namespace    http://tampermonkey.net/
-// @updateURL    https://github.com/MaresOnMyFace/md5blocker/raw/main/md5blocker.user.js
-// @downloadURL  https://github.com/MaresOnMyFace/md5blocker/raw/main/md5blocker.user.js
+// @updateURL    https://github.com/0x7C2f/UserScripts/raw/main/md5blocker.user.js
+// @downloadURL  https://github.com/0x7C2f/UserScripts/raw/main/md5blocker.user.js
 // @version      1.3
 // @description  Filters images on image boards by their data-md5 tag
 // @author       (You)
